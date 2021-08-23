@@ -1,7 +1,4 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;*/
+
   ListNode* Solution::reverseBetween(ListNode* A, int B, int C) {
     
     int i=1;
